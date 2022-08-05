@@ -10,20 +10,20 @@
 🕓📆 Agile Methodology
 <br>
 <h2>Social Networks</h2>
-  <a href="https://www.linkedin.com/in/josias-valentim-de-figueredo-0347455b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/_j.o.s.i.a.s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:josiasvfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josias-valentim-de-figueredo-0347455b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"rel="noopener noreferrer"></a> 
+  <a href="https://instagram.com/_j.o.s.i.a.s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
+  <a href = "mailto:josiasvfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
 <br>
-<h2>Skills</h2>
+<h2>Hard Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,eclipse,androidstudio,linux" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,eclipse,androidstudio,linux,azure,postgres,powershell" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,js,mysql,sqlite,selenium" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,selenium,gherkin,maven,mysql,sqlite" />
   </a>
 </p>
 <details close="true">
