@@ -26,12 +26,8 @@
     <img src="https://skillicons.dev/icons?i=cs,java,python,js,mysql,sqlite,selenium" />
   </a>
 </p>
-
 <details close="true">
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
+  <summary><b>:gear: &nbsp;Git Statistics</b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast" />
- 
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
- 
  </details>
