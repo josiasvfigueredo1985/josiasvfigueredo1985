@@ -10,24 +10,24 @@
 🕓📆 Agile Methodology
 <br>
 <h2>Social Networks</h2>
+<p align="left">
   <a href="https://www.linkedin.com/in/josias-valentim-de-figueredo-0347455b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"rel="noopener noreferrer"></a> 
   <a href="https://instagram.com/_j.o.s.i.a.s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
   <a href = "mailto:josiasvfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
-<br>
+  </p>
 <h2>Hard Skills</h2>
-
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,eclipse,androidstudio,linux,azure,postgres,powershell" />
   </a>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,selenium,gherkin,maven,mysql,sqlite" />
   </a>
 </p>
-<details close="true">
-  <summary><b>:gear: &nbsp;Git Statistics</b></summary>
+<details open="true">
+  <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast" />
  </details>
