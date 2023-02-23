@@ -15,7 +15,6 @@
   <a href="https://instagram.com/_j.o.s.i.a.s_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
   <a href = "mailto:josiasvfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
   </p>
-<h2>Hard Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell" />
@@ -26,9 +25,12 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html,sqlite,postgres,mysql,dynamodb" />
   </a>
 </p>
+    
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,gherkin,maven,postman,selenium,gherkin" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,maven,postman,selenium,gherkin" />
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.jpeg" alt="HTML5 Icon" style="width:48px;height:46px";/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" alt="HTML5 Icon" style="width:48px;height:46px/>
   </a>
 </p>
 <details open="true">
