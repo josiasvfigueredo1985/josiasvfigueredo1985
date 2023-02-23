@@ -16,14 +16,19 @@
   <a href = "mailto:josiasvfigueredo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"rel="noopener noreferrer"></a>
   </p>
 <h2>Hard Skills</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,eclipse,androidstudio,linux,azure,postgres,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell" />
   </a>
 </p>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,js,selenium,gherkin,maven,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html,sqlite,postgres,mysql,dynamodb" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,gherkin,maven,postman,selenium,gherkin" />
   </a>
 </p>
 <details open="true">
