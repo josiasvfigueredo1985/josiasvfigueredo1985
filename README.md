@@ -35,7 +35,7 @@
     <img src="https://skillicons.dev/icons?i=selenium"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
-   <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://skillicons.dev/icons?i=gherkin"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/nunit.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
