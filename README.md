@@ -32,6 +32,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=maven,postman"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://skillicons.dev/icons?i=selenium"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
@@ -42,8 +44,6 @@
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai..png"alt="HTML5 Icon" style="width:46px;height:46px"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
   </a>
 </p>
 <details open="true">
