@@ -28,7 +28,7 @@
     
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,maven,postman,selenium,gherkin" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,maven,gherkin,postman,selenium" />
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
