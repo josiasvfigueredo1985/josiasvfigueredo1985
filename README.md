@@ -45,7 +45,7 @@
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png"alt="HTML5 Icon" style="width:46px;height:30px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai..png"alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
   </a>
 </p>
 <details open="true">
