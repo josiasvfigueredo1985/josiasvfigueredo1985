@@ -17,12 +17,12 @@
   </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,androidstudio,html" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html" />
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb" />
   </a>
