@@ -22,8 +22,9 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html,sqlite,postgres,mysql,dynamodb" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html" />
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb" />
   </a>
 </p>
     
