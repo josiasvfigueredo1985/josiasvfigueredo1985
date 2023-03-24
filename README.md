@@ -33,6 +33,8 @@
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" alt="HTML5 Icon" style="width:46px;height:46px"/>
    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png"alt="HTML5 Icon" style="width:46px;height:46px"/>
   </a>
 </p>
 <details open="true">
