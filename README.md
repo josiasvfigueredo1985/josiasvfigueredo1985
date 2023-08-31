@@ -5,7 +5,7 @@
 <br>
 ✅🏅 Certified at CTFL/CTFL-AT
 <br>
-💻📲 Testing and Automation in cross-platform
+🧪📱🖥️⚙️☁️🧪 Cross-platform testing and automation
 <br>
 🕓📆 Agile Methodology
 <br>
