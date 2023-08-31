@@ -5,9 +5,9 @@
 <br>
 ✅🏅 Certified at CTFL/CTFL-AT
 <br>
-🧪📱🖥️⚙️☁️🧪 Cross-platform testing and automation
+🧪📱🖥️⚙️☁️🔎🤖🧪 Cross-platform testing and automation
 <br>
-🕓📆 Agile Methodology
+🕓📆📉🔄️ Agile Methodology
 <br>
 <h2>Social Networks</h2>
 <p align="left">
