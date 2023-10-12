@@ -66,7 +66,7 @@
     <img src="https://skillicons.dev/icons?i=postgres" >
     <img src="https://skillicons.dev/icons?i=mysql" >
     <img src="https://skillicons.dev/icons?i=dynamodb" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql-1.ico" >
+    <img height="150px" src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql-1.ico" >
 </p>
 <h3>Devops and CI/CD</h3>
 <p align="left">
