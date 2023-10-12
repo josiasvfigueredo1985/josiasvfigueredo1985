@@ -1,5 +1,5 @@
 ### Hi! I´m Josias!
-<img src="https://user-images.githubusercontent.com/79258697/183077460-b4fa6a9b-1db6-452a-abf2-7f6f9ddfcf09.gif" alt="DogQualityAssuranceGIF">
+![DogQualityAssuranceGIF](https://user-images.githubusercontent.com/79258697/183077460-b4fa6a9b-1db6-452a-abf2-7f6f9ddfcf09.gif)
 
 🔎🐞 Currently working as QA Analyst
 ✅🏅 Certified at CTFL/CTFL-AT
