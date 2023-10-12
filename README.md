@@ -22,64 +22,64 @@
 <h3>Web</h3>
 <p align="left">
   <details open="false">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" style="pointer-events: none;">
   </details>
 </p>
 <h3>Mobile</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=androidstudio">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.ico">
+    <img src="https://skillicons.dev/icons?i=androidstudio" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.ico" style="pointer-events: none;">
 </p>
 <h3>API</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postman">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
+    <img src="https://skillicons.dev/icons?i=postman" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" style="pointer-events: none;">
 </p>
 <h3>Performance</h3>
 <p align="left">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico">
-    <img src="https://skillicons.dev/icons?i=grafana">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=grafana" style="pointer-events: none;">
 </p>
 <h3>Programming Languages and IDEs</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cs">
-    <img src="https://skillicons.dev/icons?i=dotnet">
-    <img src="https://skillicons.dev/icons?i=java">
-    <img src="https://skillicons.dev/icons?i=js">
-    <img src="https://skillicons.dev/icons?i=py">
-    <img src="https://skillicons.dev/icons?i=ts">
-    <img src="https://skillicons.dev/icons?i=vscode">
-    <img src="https://skillicons.dev/icons?i=visualstudio">
-    <img src="https://skillicons.dev/icons?i=eclipse">
-    <img src="https://skillicons.dev/icons?i=idea">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico">
+    <img src="https://skillicons.dev/icons?i=cs" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=dotnet" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=java" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=js" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=py" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=ts" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=vscode" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=visualstudio" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=eclipse" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=idea" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico" style="pointer-events: none;">
 </p>
 <h3>Database</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=sqlite">
-    <img src="https://skillicons.dev/icons?i=postgres">
-    <img src="https://skillicons.dev/icons?i=mysql">
-    <img src="https://skillicons.dev/icons?i=dynamodb">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.ico">
+    <img src="https://skillicons.dev/icons?i=sqlite" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=postgres" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=mysql" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=dynamodb" style="pointer-events: none;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.ico" style="pointer-events: none;">
 </p>
 <h3>Devops and CI/CD</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git">
-    <img src="https://skillicons.dev/icons?i=github">
-    <img src="https://skillicons.dev/icons?i=githubactions">
-    <img src="https://skillicons.dev/icons?i=gitlab">
-    <img src="https://skillicons.dev/icons?i=azure">
-    <img src="https://skillicons.dev/icons?i=aws">
-    <img src="https://skillicons.dev/icons?i=jenkins">
-    <img src="https://skillicons.dev/icons?i=docker">
+    <img src="https://skillicons.dev/icons?i=git" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=github" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=githubactions" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=gitlab" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=azure" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=aws" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=jenkins" style="pointer-events: none;">
+    <img src="https://skillicons.dev/icons?i=docker" style="pointer-events: none;">
 </p>
 <details open="true">
   <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
