@@ -20,43 +20,34 @@
 </p>
 <h2>Automation Testing Tools</h2>
 <h3>Web</h3>
-<p align="center">
-  <a href="Web Testing Tools">
+<p align="left">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
-  </a>
 </p>
 <h3>Mobile</h3>
-<p align="center">
-  <a href="Mobile Testing Tools">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=androidstudio">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.ico">
-  </a>
 </p>
 <h3>API</h3>
-<p align="center">
-  <a href="API Testing Tools">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=postman">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
-  </a>
 </p>
 <h3>Performance</h3>
-<p align="center">
-  <a href="Performance Testing Tools">
+<p align="left">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico">
     <img src="https://skillicons.dev/icons?i=grafana">
-  </a>
 </p>
 <h3>Programming Languages and IDEs</h3>
-<p align="center">
-  <a href="Programming Languages and IDEs">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=cs">
     <img src="https://skillicons.dev/icons?i=dotnet">
     <img src="https://skillicons.dev/icons?i=java">
@@ -67,23 +58,18 @@
     <img src="https://skillicons.dev/icons?i=visualstudio">
     <img src="https://skillicons.dev/icons?i=eclipse">
     <img src="https://skillicons.dev/icons?i=idea">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico"
-      alt="PyCharm logo.">
-  </a>
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico">
 </p>
 <h3>Database</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=sqlite">
     <img src="https://skillicons.dev/icons?i=postgres">
     <img src="https://skillicons.dev/icons?i=mysql">
     <img src="https://skillicons.dev/icons?i=dynamodb">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.ico">
-  </a>
 </p>
 <h3>Devops and CI/CD</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=git">
     <img src="https://skillicons.dev/icons?i=github">
     <img src="https://skillicons.dev/icons?i=githubactions">
@@ -92,7 +78,6 @@
     <img src="https://skillicons.dev/icons?i=aws">
     <img src="https://skillicons.dev/icons?i=jenkins">
     <img src="https://skillicons.dev/icons?i=docker">
-  </a>
 </p>
 <details open="true">
   <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
