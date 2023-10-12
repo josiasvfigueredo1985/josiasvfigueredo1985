@@ -3,7 +3,7 @@
 <br>
 🔎🐞 Currently working as QA Analyst
 <br>
-✅🏅 Certified at CTFL/CTFL-AT
+<a href="//https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">✅🏅 Certified at CTFL/CTFL-AT</a>
 <br>
 🧪📱🖥️⚙️☁️🔎🤖🧪 Cross-platform testing and automation
 <br>
@@ -18,38 +18,81 @@
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
       rel="noopener noreferrer"></a>
 </p>
-<h2>Skills</h2>
+<h2>Automation Testing Tools</h2>
+<h3>Web</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,eclipse,linux,azure,powershell">
+  <a href="Web Testing Tools">
+    <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
+    <img src="https://icons8.com/icon/38553/selenium">
+    <img src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js">
+    <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg">
   </a>
 </p>
+<h3>Mobile</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/icons8-npm-color-57.png">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/icons8-microsoft-sql-server-57.png">
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb">
+  <a href="Mobile Testing Tools">
+    <img src="https://skillicons.dev/icons?i=androidstudio">
+    <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-white.png">
+    <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-horiz.png">
+    <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
   </a>
 </p>
+<h3>API</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="API Testing Tools">
     <img src="https://skillicons.dev/icons?i=postman">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png" width="48" height="48">
-    <img src="https://skillicons.dev/icons?i=selenium">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png" width="48" height="48">
-    <img src="https://skillicons.dev/icons?i=gherkin">
-    <img src="https://skillicons.dev/icons?i=maven">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/nunit.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png" width="48" height="48">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai.png" width="48" height="48">
+    <img src="https://jmeter.apache.org/images/jmeter_square.png">
+    <img src="https://restsharp.dev/restsharp.png">
+    <img src="https://rest-assured.io/img/logo-transparent.png">
+    <img src="https://www.karatelabs.io/assets/images/logo.svg">
+    <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
+  </a>
+</p>
+<h3>Performance</h3>
+<p align="center">
+  <a href="Performance Testing Tools">
+    <img src="https://jmeter.apache.org/images/jmeter_square.png">
+    <img src="https://skillicons.dev/icons?i=grafana">
+  </a>
+</p>
+<h3>Programming Languages and IDEs</h3>
+<p align="center">
+  <a href="Programming Languages and IDEs">
+    <img src="https://skillicons.dev/icons?i=cs">
+    <img src="https://skillicons.dev/icons?i=dotnet">
+    <img src="https://skillicons.dev/icons?i=java">
+    <img src="https://skillicons.dev/icons?i=js">
+    <img src="https://skillicons.dev/icons?i=py">
+    <img src="https://skillicons.dev/icons?i=ts">
+    <img src="https://skillicons.dev/icons?i=vscode">
+    <img src="https://skillicons.dev/icons?i=visualstudio">
+    <img src="https://skillicons.dev/icons?i=eclipse">
+    <img src="https://skillicons.dev/icons?i=idea">
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png"
+      alt="PyCharm logo.">
+  </a>
+</p>
+<h3>Database</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite">
+    <img src="https://skillicons.dev/icons?i=postgres">
+    <img src="https://skillicons.dev/icons?i=mysql">
+    <img src="https://skillicons.dev/icons?i=dynamodb">
+    <img src="https://icons8.com.br/icon/laYYF3dV0Iew/microsoft-sql-server">
+  </a>
+</p>
+<h3>Devops and CI/CD</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git">
+    <img src="https://skillicons.dev/icons?i=github">
+    <img src="https://skillicons.dev/icons?i=githubactions">
+    <img src="https://skillicons.dev/icons?i=gitlab">
+    <img src="https://skillicons.dev/icons?i=azure">
+    <img src="https://skillicons.dev/icons?i=aws">
+    <img src="https://skillicons.dev/icons?i=jenkins">
+    <img src="https://skillicons.dev/icons?i=docker">
   </a>
 </p>
 <details open="true">
