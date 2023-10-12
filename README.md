@@ -81,8 +81,6 @@
 </p>
 <details open="true">
   <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
-  <img height="150px" width="359.23"
-    src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" />
-  <img height="150px" width="359.23"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" style="width: 360px;"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast" style="width: 360px;"/>
 </details>
