@@ -3,12 +3,12 @@
 <br>
 🔎🐞 Currently working as QA Analyst
 <br>
-<img height="35px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico">
-<img height="35px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
+<img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico">
+<img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
 <a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">CTFL/CTFL-AT Certified</a>
 <br>
-<img height="35px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cross-platform.ico">
-<img height="35px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico">
+<img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cross-platform.ico">
+<img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico">
 Cross-platform testing and automation
 <br>
 🕓📆📉🔄️ Agile Methodology
