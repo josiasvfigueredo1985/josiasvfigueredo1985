@@ -21,7 +21,7 @@
 <h2>Automation Testing Tools</h2>
 <h3>Web</h3>
 <p align="left">
-    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico" >
+    <img height="48px" width="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
