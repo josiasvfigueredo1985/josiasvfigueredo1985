@@ -1,7 +1,9 @@
 ### Hi! I´m Josias!
 ![DogQualityAssuranceGIF](https://user-images.githubusercontent.com/79258697/183077460-b4fa6a9b-1db6-452a-abf2-7f6f9ddfcf09.gif)
 <br>
-🔎🐞 Currently working as QA Analyst
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
+Currently working as QA Analyst
 <br>
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
@@ -11,7 +13,8 @@
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico">
 Cross-platform testing and automation
 <br>
-
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/agile.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/scrum.ico">
 Agile Methodology
 <br>
 <h2>Social Networks</h2>
