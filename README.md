@@ -3,7 +3,7 @@
 <br>
 🔎🐞 Currently working as QA Analyst
 <br>
-<a href="//https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">✅🏅 Certified at CTFL/CTFL-AT</a>
+<a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">✅🏅 Certified at CTFL/CTFL-AT</a>
 <br>
 🧪📱🖥️⚙️☁️🔎🤖🧪 Cross-platform testing and automation
 <br>
@@ -23,8 +23,8 @@
 <p align="center">
   <a href="Web Testing Tools">
     <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
-    <img src="https://icons8.com/icon/38553/selenium">
-    <img src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png">
+    <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg">
     <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg">
   </a>
 </p>
