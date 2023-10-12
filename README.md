@@ -1,20 +1,16 @@
 ### Hi! I´m Josias!
 ![DogQualityAssuranceGIF](https://user-images.githubusercontent.com/79258697/183077460-b4fa6a9b-1db6-452a-abf2-7f6f9ddfcf09.gif)
 <hr>
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico"><img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
 Currently working as QA Analyst
 <hr>
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico">
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico"><img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
 <a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">CTFL/CTFL-AT Certified</a>
 <hr>
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cross-platform.ico">
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cross-platform.ico"><img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico">
 Cross-platform testing and automation
 <hr>
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/agile.ico">
-<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/scrum.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/agile.ico"><img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/scrum.ico">
 Agile Methodology
 <hr>
 <h2>Social Networks</h2>
