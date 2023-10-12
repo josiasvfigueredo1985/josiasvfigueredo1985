@@ -54,6 +54,7 @@ Agile Methodology
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/swagger.ico" >
 </p>
 <h3>Performance</h3>
 <p align="left">
