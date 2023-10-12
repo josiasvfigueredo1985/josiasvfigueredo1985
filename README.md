@@ -19,6 +19,7 @@
       rel="noopener noreferrer"></a>
 </p>
 <h2>Automation Testing Tools</h2>
+<details open="false">
 <h3>Web</h3>
 <p align="left">
     <img src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico">
@@ -79,6 +80,7 @@
     <img src="https://skillicons.dev/icons?i=jenkins">
     <img src="https://skillicons.dev/icons?i=docker">
 </p>
+  </details>
 <details open="true">
   <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" style="width: 360px;"/>
