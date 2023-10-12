@@ -3,7 +3,7 @@
 <br>
 🔎🐞 Currently working as QA Analyst
 <br>
-<a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">✅🏅 Certified at CTFL/CTFL-AT</a>
+<a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">✅🏅 CTFL/CTFL-AT Certified</a>
 <br>
 🧪📱🖥️⚙️☁️🔎🤖🧪 Cross-platform testing and automation
 <br>
@@ -12,10 +12,10 @@
 <h2>Social Networks</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/josias-valentim-de-figueredo-0347455b/" target="_blank"><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to my Linkedin Profile"
       target="_blank" rel="noopener noreferrer"></a>
   <a href="mailto:josiasvfigueredo@gmail.com"><img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt= "Send an email to me"
       rel="noopener noreferrer"></a>
 </p>
 <h2>Automation Testing Tools</h2>
@@ -81,6 +81,6 @@
 </p>
 <details open="true">
   <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" style="width: 360px;"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast" style="width: 360px;"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast"/>
 </details>
