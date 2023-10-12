@@ -22,7 +22,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell"  width="200" height="200">
+      src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell">
+  </a>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=vscode" width="48" height="48">
   </a>
 </p>
 <p align="center">
