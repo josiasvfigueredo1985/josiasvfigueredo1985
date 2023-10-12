@@ -19,35 +19,35 @@
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell" width="200" height="200">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/npm.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png" width="200" height="200">
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb" width="200" height="200">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/npm.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb">
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png" width="200" height="200">
-    <img src="https://skillicons.dev/icons?i=selenium" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png" width="200" height="200">
-    <img src="https://skillicons.dev/icons?i=gherkin" width="200" height="200">
-    <img src="https://skillicons.dev/icons?i=maven" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/nunit.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png" width="200" height="200">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai.png" width="200" height="200">
+    <img src="https://skillicons.dev/icons?i=postman">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://skillicons.dev/icons?i=selenium">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://skillicons.dev/icons?i=gherkin">
+    <img src="https://skillicons.dev/icons?i=maven">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/nunit.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai.png" width="256" height="256" viewBox="0 0 256 256" fill="none">
   </a>
 </p>
 <details open="true">
