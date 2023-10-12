@@ -22,36 +22,35 @@
 <h3>Web</h3>
 <p align="center">
   <a href="Web Testing Tools">
-    <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png">
-    <img src="https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg">
-    <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
   </a>
 </p>
 <h3>Mobile</h3>
 <p align="center">
   <a href="Mobile Testing Tools">
     <img src="https://skillicons.dev/icons?i=androidstudio">
-    <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-white.png">
-    <img src="https://appium.io/docs/en/2.1/assets/images/appium-logo-horiz.png">
-    <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.ico">
   </a>
 </p>
 <h3>API</h3>
 <p align="center">
   <a href="API Testing Tools">
     <img src="https://skillicons.dev/icons?i=postman">
-    <img src="https://jmeter.apache.org/images/jmeter_square.png">
-    <img src="https://restsharp.dev/restsharp.png">
-    <img src="https://rest-assured.io/img/logo-transparent.png">
-    <img src="https://www.karatelabs.io/assets/images/logo.svg">
-    <img src="https://docs.robotframework.org/img/robot-framework-dark.svg">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico">
   </a>
 </p>
 <h3>Performance</h3>
 <p align="center">
   <a href="Performance Testing Tools">
-    <img src="https://jmeter.apache.org/images/jmeter_square.png">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico">
     <img src="https://skillicons.dev/icons?i=grafana">
   </a>
 </p>
@@ -68,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=visualstudio">
     <img src="https://skillicons.dev/icons?i=eclipse">
     <img src="https://skillicons.dev/icons?i=idea">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.png"
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico"
       alt="PyCharm logo.">
   </a>
 </p>
