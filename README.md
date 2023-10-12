@@ -79,7 +79,7 @@
     <img src="https://skillicons.dev/icons?i=postgres">
     <img src="https://skillicons.dev/icons?i=mysql">
     <img src="https://skillicons.dev/icons?i=dynamodb">
-    <img src="	https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png">
+    <img src="https://img.icons8.com/?size=256&id=laYYF3dV0Iew&format=png">
   </a>
 </p>
 <h3>Devops and CI/CD</h3>
