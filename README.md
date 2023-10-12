@@ -26,7 +26,7 @@
   </a>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vscode" width="48" height="48">
+      src="https://skillicons.dev/icons?i=vscode" width="38" height="38">
   </a>
 </p>
 <p align="center">
