@@ -1,7 +1,6 @@
 ### Hi! I´m Josias!
 ![DogQualityAssuranceGIF](https://user-images.githubusercontent.com/79258697/183077460-b4fa6a9b-1db6-452a-abf2-7f6f9ddfcf09.gif)
-<br>
-hr
+<hr>
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
 Currently working as QA Analyst
