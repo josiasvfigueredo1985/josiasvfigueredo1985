@@ -22,35 +22,34 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell"/>
+      src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,git,github,githubactions,gitlab,aws,idea,eclipse,linux,azure,powershell">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/npm.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png"/>
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/npm.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png" width="48" height="48">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb">
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman"  />
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png"/>
-    <img src="https://skillicons.dev/icons?i=selenium"  />
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png"/>
-    <img src="https://skillicons.dev/icons?i=gherkin"  />
-    <img src="https://skillicons.dev/icons?i=maven"  />
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/nunit.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png"/>
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai.png"/>
+    <img src="https://skillicons.dev/icons?i=postman">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.png" width="48" height="48">
+    <img src="https://skillicons.dev/icons?i=selenium">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.png" width="48" height="48">
+    <img src="https://skillicons.dev/icons?i=gherkin">
+    <img src="https://skillicons.dev/icons?i=maven">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/nunit.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/junit.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/testng.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/mocha.png" width="48" height="48">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/chai.png" width="48" height="48">
   </a>
 </p>
 <details open="true">
