@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,js,nodejs,ts,html">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/npm.png" style="width: 48px; height: 48px;">
+    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/npm.png" style="width: 200px; height: 200px;">
     <img src=" https://github.com/josiasvfigueredo1985/src/blob/main/mssql.png" width="256" height="256"
       viewBox="0 0 256 256" fill="none">
     <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,dynamodb">
