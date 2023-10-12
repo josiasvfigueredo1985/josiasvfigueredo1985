@@ -21,29 +21,29 @@
 <h2>Automation Testing Tools</h2>
 <h3>Web</h3>
 <p align="left">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cypress.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/webdio.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
 </p>
 <h3>Mobile</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=androidstudio" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/appium.ico" >
 </p>
 <h3>API</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=postman" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
 </p>
 <h3>Performance</h3>
 <p align="left">
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" >
     <img src="https://skillicons.dev/icons?i=grafana" >
 </p>
 <h3>Programming Languages and IDEs</h3>
@@ -58,7 +58,7 @@
     <img src="https://skillicons.dev/icons?i=visualstudio" >
     <img src="https://skillicons.dev/icons?i=eclipse" >
     <img src="https://skillicons.dev/icons?i=idea" >
-    <img src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/pycharm.ico" >
 </p>
 <h3>Database</h3>
 <p align="left">
