@@ -50,6 +50,6 @@
 </p>
 <details open="true">
   <summary><b> &nbsp;<h2>Git Statistics</h2></b></summary>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast" alt="HTML5 Icon" style="width:48px;height:30px" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast" alt="HTML5 Icon" style="width:48px;height:30px" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=josiasvfigueredo1985&show_icons=true&theme=highcontrast"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josiasvfigueredo1985&hide=html&layout=compact&theme=highcontrast"/>
  </details>
