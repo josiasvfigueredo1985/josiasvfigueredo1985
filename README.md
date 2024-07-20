@@ -20,7 +20,7 @@ Cross-platform testing and automation
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/agile.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/scrum.ico">
-Agile Methodology
+Agile Methodology and Cross-Team
 <p/>
 
 <h2>Social Networks</h2>
