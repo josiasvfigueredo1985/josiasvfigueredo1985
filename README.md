@@ -1,5 +1,5 @@
 ### Hi! I´m Josias!
-![Funny Cat](https://github.com/josiasvfigueredo1985/src/blob/main/Cat.gif)
+![Funny Cat](https://github.com/josiasvfigueredo1985/src/blob/main/tester_cat.gif)
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
