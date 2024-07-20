@@ -1,5 +1,5 @@
 ### Hi! I´m Josias!
-![Funny Cat](https://tenor.com/view/gatinho-gato-gato-e-computador-computer-cat-gif-22185203)
+![Funny Cat](https://tenor.com/bFfx1.gif)
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
