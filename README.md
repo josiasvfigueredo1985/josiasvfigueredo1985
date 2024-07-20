@@ -3,7 +3,7 @@
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
-Currently working as QA Analyst
+Currently working as Test Automation Engineer
 <p/>
 
 <p align="left">
