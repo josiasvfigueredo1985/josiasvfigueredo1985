@@ -1,5 +1,5 @@
 ### Hi! I´m Josias!
-![Funny Cat](https://external.fplu4-1.fna.fbcdn.net/emg1/v/t13/7326264802327389613?url=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2F13HBDT4QSTpveU%2Fgiphy.gif%3Fcid%3D999aceacf0xnoypn91y7aplb5ps1sazg7pn33mv8xspscud0%26ep%3Dv1_gifs_search%26rid%3Dgiphy.gif%26ct%3Dg&fb_obo=1&utld=giphy.com&stp=dst-gif_fr_q75&ccb=13-1&oh=06_Q399AiUhlD4Hn-ddLLh0gVE6Um4qthSb7KxTDuRokqQRWeQ&oe=675CD907&_nc_sid=9e3c15)
+![Funny Cat](https://github.com/josiasvfigueredo1985/src/blob/main/work%20heres%20GIF.gif)
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
