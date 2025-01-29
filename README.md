@@ -3,24 +3,25 @@
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
-Currently working as Test Automation Engineer
+ - Currently working as Test Automation Engineer
 <p/>
 
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
-<a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">CTFL/CTFL-AT Certified</a>
+<a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">
+   - CTFL/CTFL-AT Certified</a>
 <p/>
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cross-platform.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico">
-Cross-platform testing and automation
+ - Cross-platform testing and automation
 <p/>
 
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/agile.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/scrum.ico">
-Agile Methodology and Cross-Team
+ - Agile Methodology and Cross-Team
 <p/>
 
 <h2>Social Networks</h2>
@@ -33,6 +34,10 @@ Agile Methodology and Cross-Team
       rel="noopener noreferrer"></a>
 </p>
 <h2>Automation Testing Tools</h2>
+<h3>Unity</h3>
+<p align="left">
+  <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jest.ico" >
+</p>
 <h3>Web</h3>
 <p align="left">
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/selenium.ico" >
@@ -67,6 +72,7 @@ Agile Methodology and Cross-Team
     <img src="https://skillicons.dev/icons?i=dotnet" >
     <img src="https://skillicons.dev/icons?i=java" >
     <img src="https://skillicons.dev/icons?i=js" >
+    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/node-dot-js.ico" >
     <img src="https://skillicons.dev/icons?i=py" >
     <img src="https://skillicons.dev/icons?i=ts" >
     <img src="https://skillicons.dev/icons?i=vscode" >
