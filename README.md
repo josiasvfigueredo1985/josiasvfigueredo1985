@@ -36,7 +36,8 @@
 <h2>Automation Testing Tools</h2>
 <h3>Unity</h3>
 <p align="left">
-  <img href="https://github.com/josiasvfigueredo1985/typescript-course-calculator-project" height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jest.ico" >
+  <a href="https://github.com/josiasvfigueredo1985/typescript-course-calculator-project/actions" target="_blank">
+  <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jest.ico" ></a>
 </p>
 <h3>Web</h3>
 <p align="left">
