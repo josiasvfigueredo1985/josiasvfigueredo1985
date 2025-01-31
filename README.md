@@ -72,7 +72,7 @@
     <img src="https://skillicons.dev/icons?i=cs" >
     <img src="https://skillicons.dev/icons?i=dotnet" >
     <img src="https://skillicons.dev/icons?i=java" >
-    <img src="https://skillicons.dev/icons?i=js" >
+    <a href="https://github.com/josiasvfigueredo1985/js-bootcamp"><img src="https://skillicons.dev/icons?i=js" ></a>
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/node-dot-js.ico" >
     <img src="https://skillicons.dev/icons?i=py" >
     <a href="https://github.com/josiasvfigueredo1985/typescript_advanced_level"><img src="https://skillicons.dev/icons?i=ts" ></a>
