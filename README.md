@@ -34,7 +34,7 @@
       rel="noopener noreferrer"></a>
 </p>
 <h2>Automation Testing Tools</h2>
-<h3>Unity</h3>
+<h3>Unit</h3>
 <p align="left">
   <a href="https://github.com/josiasvfigueredo1985/typescript-course-calculator-project/actions" target="_blank">
   <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jest.ico" ></a>
