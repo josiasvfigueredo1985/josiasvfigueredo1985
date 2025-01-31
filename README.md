@@ -75,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=js" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/node-dot-js.ico" >
     <img src="https://skillicons.dev/icons?i=py" >
-    <img src="https://skillicons.dev/icons?i=ts" >
+    <a href="https://github.com/josiasvfigueredo1985/typescript_advanced_level"><img src="https://skillicons.dev/icons?i=ts" ></a>
     <img src="https://skillicons.dev/icons?i=vscode" >
     <img src="https://skillicons.dev/icons?i=visualstudio" >
     <img src="https://skillicons.dev/icons?i=eclipse" >
