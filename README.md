@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=postman" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico" >
-    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" >
+    <a href="https://github.com/josiasvfigueredo1985/ArquiteturaBase2RestAssured"><img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" ></a>
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/karate-dsl.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/swagger.ico" >
