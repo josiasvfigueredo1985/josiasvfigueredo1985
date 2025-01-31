@@ -33,7 +33,7 @@
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt= "Send an email to me"
       rel="noopener noreferrer"></a>
 </p>
-<h2>Automation Testing Tools</h2>
+<h2>Automation Testing Frameworkds/Tools</h2>
 <h3>Unit</h3>
 <p align="left">
   <a href="https://github.com/josiasvfigueredo1985/typescript-course-calculator-project/actions" target="_blank">
