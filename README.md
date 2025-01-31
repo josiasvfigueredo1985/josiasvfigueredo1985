@@ -54,7 +54,7 @@
 </p>
 <h3>API</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=postman" >
+    <a href"https://github.com/josiasvfigueredo1985/API_Testings_Postman"><img src="https://skillicons.dev/icons?i=postman" ></a>
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jmeter.ico" >
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restsharp.ico" >
     <a href="https://github.com/josiasvfigueredo1985/ArquiteturaBase2RestAssured"><img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/restassured.ico" ></a>
