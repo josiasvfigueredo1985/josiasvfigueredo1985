@@ -96,7 +96,7 @@
     <img src="https://skillicons.dev/icons?i=github" >
     <img src="https://skillicons.dev/icons?i=githubactions" >
     <img src="https://skillicons.dev/icons?i=gitlab" >
-    <img src="https://skillicons.dev/icons?i=azure" >
+    <a href="https://dev.azure.com/josiasvfigueredo/Testing%20Trainnings/_build"><img src="https://skillicons.dev/icons?i=azure" ></a>
     <img src="https://skillicons.dev/icons?i=aws" >
     <img src="https://skillicons.dev/icons?i=jenkins" >
     <img src="https://skillicons.dev/icons?i=docker" >
