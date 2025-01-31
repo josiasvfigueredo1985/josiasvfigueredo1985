@@ -1,11 +1,11 @@
 ### Hi! I´m Josias!
 ![Funny Cat](https://github.com/josiasvfigueredo1985/src/blob/main/work%20heres%20GIF.gif)
 <p align="left">
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
+<img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico">
- - Currently working as Test Automation Engineer
+ <a href="https://www.linkedin.com/in/josias-valentim-de-figueredo-0347455b/details/experience/?locale=en_US">
+   - Currently working as Test Automation Engineer</a>
 <p/>
-
 <p align="left">
   <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico">
 <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico">
