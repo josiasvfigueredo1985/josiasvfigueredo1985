@@ -74,7 +74,7 @@
     <img src="https://skillicons.dev/icons?i=java" >
     <a href="https://github.com/josiasvfigueredo1985/js-bootcamp"><img src="https://skillicons.dev/icons?i=js" ></a>
     <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/node-dot-js.ico" >
-    <img src="https://skillicons.dev/icons?i=py" >
+    <a href="https://github.com/josiasvfigueredo1985/python-course-advanced"><img src="https://skillicons.dev/icons?i=py" ></a>
     <a href="https://github.com/josiasvfigueredo1985/typescript_advanced_level"><img src="https://skillicons.dev/icons?i=ts" ></a>
     <img src="https://skillicons.dev/icons?i=vscode" >
     <img src="https://skillicons.dev/icons?i=visualstudio" >
