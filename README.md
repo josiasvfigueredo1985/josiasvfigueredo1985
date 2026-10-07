@@ -74,13 +74,13 @@
 
 <p align="left">
   <a href="#">
-    <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+  <a href="#">
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/testes-e2e-com-cypress-tat">
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
   </a>
-  <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
   </a>
   <a href="#">
     <img height="60px" src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
@@ -117,7 +117,7 @@
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg"alt="Karate DSL" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="https://robotframework.org/img/RF-white.svg" alt="Robot Framework"style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework"style="background-color: gray; border-radius: 10px; padding: 2px;"/>
   </a>
   <a href="#">
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"alt="Swagger"style="background-color: gray; border-radius: 10px; padding: 8px;" />
