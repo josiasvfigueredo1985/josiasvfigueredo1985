@@ -54,7 +54,7 @@
 
 <p align="left">
   <a href="#">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=playwright&theme=light" alt="Playwright"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/playwright/2EAD33?viewbox=auto" alt="Playwright"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/testes-e2e-com-cypress-tat">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress"/>
@@ -63,10 +63,10 @@
     <img width="48" height="48" src="https://skillicons.dev/icons?i=selenium&theme=light" alt="Selenium"/>
   </a>
   <a href="#">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=webdriverio&theme=light" alt="WebdriverIO"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/webdriverio/EA5906?viewbox=auto" alt="WebdriverIO"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=robotframework&theme=light" alt="Robot Framework"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/robotframework/000000?viewbox=auto" alt="Robot Framework"/>
   </a>
 </p>
 
@@ -77,7 +77,7 @@
     <img width="48" height="48" src="https://skillicons.dev/icons?i=androidstudio&theme=light" alt="Android Studio"/>
   </a>
   <a href="#">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=appium&theme=light" alt="Appium"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/appium/EE376D?viewbox=auto" alt="Appium"/>
   </a>
 </p>
 
@@ -97,10 +97,10 @@
     <img width="48" height="48" src="https://img.shields.io/badge/Karate-25A162?style=flat-square&logoColor=white" alt="Karate DSL"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=robotframework&theme=light" alt="Robot Framework"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/robotframework/000000?viewbox=auto" alt="Robot Framework"/>
   </a>
   <a href="#">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=swagger&theme=light" alt="Swagger"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/swagger/85EA2D?viewbox=auto" alt="Swagger"/>
   </a>
 </p>
 
@@ -111,7 +111,7 @@
     <img width="80" height="48" src="https://cdn.simpleicons.org/apachejmeter/D22128?viewbox=auto" alt="JMeter"/>
   </a>
   <a href="#">
-    <img width="48" height="48" src="https://skillicons.dev/icons?i=gatling&theme=light" alt="Gatling"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/gatling/FF9E2A?viewbox=auto" alt="Gatling"/>
   </a>
   <a href="#">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=grafana&theme=light" alt="Grafana"/>
@@ -178,13 +178,13 @@
     <img width="48" height="48" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL"/>
   </a>
   <a href="#">
+    <img width="48" height="48" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
+  </a>
+  <a href="#">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="SQLite"/>
   </a>
   <a href="#">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=dynamodb&theme=light" alt="DynamoDB"/>
-  </a>
-  <a href="#">
-    <img width="48" height="48" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
   </a>
 </p>
 
@@ -218,6 +218,7 @@
     <img width="48" height="48" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS"/>
   </a>
 </p>
+
 
 ---
 
