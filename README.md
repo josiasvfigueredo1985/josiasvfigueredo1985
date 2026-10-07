@@ -18,8 +18,8 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/qa.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;"/>
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/quality.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; display: inline-block; margin: 5px;"/>
 </p>
 
 🔹 **Current Role**: [Test Automation Engineer](https://www.linkedin.com/in/josias-valentim-de-figueredo-0347455b/details/experience/?locale=en_US)
@@ -27,10 +27,10 @@
 🔹 **Certifications**:
 
 <p align="left">
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/ctfl-at.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://skillicons.dev/icons?i=pytest" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   <a href="https://bcr.bstqb.org.br/cert?field_certificado_nome_value=Josias+Valentim+de+Figueredo&field_certificado_numero_value=+21-CTFL-AT-11239-BR">
-    <strong>CTFL & CTFL-AT Certified</strong>
+    <strong>CTFL & CTFL-AT Certified (BSTQB)</strong>
   </a>
 </p>
 
@@ -42,10 +42,10 @@
 - ✅ CI/CD Integration & DevOps Practices
 
 <p align="left">
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/cross-platform.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/api-testing.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/agile.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
-  <img height="64px" src="https://github.com/josiasvfigueredo1985/src/blob/main/scrum.ico" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://skillicons.dev/icons?i=git" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+  <img height="64px" src="https://skillicons.dev/icons?i=docker" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 <p align="left">
   <a href="https://github.com/josiasvfigueredo1985/typescript-course-calculator-project/actions" target="_blank">
-    <img height="48px" src="https://github.com/josiasvfigueredo1985/src/blob/main/jest.ico" alt="Jest" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+    <img height="48px" src="https://skillicons.dev/icons?i=jest" alt="Jest" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
 </p>
 
@@ -91,7 +91,7 @@
     <img height="60px" src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+    <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/robotframework/robotframework-original.svg" alt="Robot Framework" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
 </p>
 
