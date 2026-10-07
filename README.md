@@ -74,19 +74,19 @@
 
 <p align="left">
   <a href="#">
-    <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+    <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" style="background-color: #ffffff; border-radius: 10px; padding: 2px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/testes-e2e-com-cypress-tat">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="60px" src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+    <img height="60px" src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" style="background-color: #ffffff; border-radius: 10px; padding: 2px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework" style="background-color: #ffffff; border-radius: 10px; padding: 2px;"/>
   </a>
 </p>
 
@@ -94,10 +94,10 @@
 
 <p align="left">
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" alt="Appium" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
 </p>
 
@@ -108,19 +108,19 @@
     <img height="65px" src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
   <a href="https://github.com/josiasvfigueredo1985/restsharp-testing-nunit">
-    <img height="48px" src="https://restsharp.dev/img/restsharp.png" alt="RestSharp" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://restsharp.dev/img/restsharp.png" alt="RestSharp" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/ArquiteturaBase2RestAssured">
-    <img height="48px" src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="Karate DSL" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="Karate DSL" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="https://robotframework.org/img/RF-white.svg" alt="Robot Framework" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+    <img height="60px" src="https://robotframework.org/img/RF-white.svg" alt="Robot Framework" style="background-color: #ffffff; border-radius: 10px; padding: 2px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" style="background-color: gray; border-radius: 10px; padding: 8px;" />
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" style="background-color: #ffffff; border-radius: 10px; padding: 8px;" />
   </a>
 </p>
 
@@ -128,13 +128,13 @@
 
 <p align="left">
   <a href="#">
-    <img height="48px" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" alt="Gatling" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" alt="Gatling" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="62px" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" style="background-color: gray; border-radius: 10px; padding: 1px;"/>
+    <img height="62px" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" style="background-color: #ffffff; border-radius: 10px; padding: 1px;"/>
   </a>
 </p>
 
@@ -144,25 +144,25 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/js-bootcamp">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/typescript_advanced_level">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/python-course-advanced">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
 </p>
 
@@ -170,19 +170,19 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="PyCharm" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
 </p>
 
@@ -192,19 +192,19 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL Server" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL Server" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
 </p>
 
@@ -214,28 +214,28 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="https://dev.azure.com/josiasvfigueredo/Testing%20Trainnings/_build">
-    <img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="background-color: gray; border-radius: 10px; padding: 8px;"/>
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="background-color: #ffffff; border-radius: 10px; padding: 8px;"/>
   </a>
 </p>
 
