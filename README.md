@@ -117,7 +117,7 @@
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="Karate DSL" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="https://robotframework.org/img/RF-white.svg" alt="Robot Framework" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
   <a href="#">
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
