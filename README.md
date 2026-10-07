@@ -86,7 +86,7 @@
     <img height="60px" src="https://webdriver.io/img/logo-webdriver-io.png" alt="WebdriverIO" style="background-color: gray; border-radius: 10px; padding: 2px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="[https://robotframework.org/img/RF-white.svg](https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico)" alt="Robot Framework"style="background-color: gray; border-radius: 10px; padding: 2px;"/>
+    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework"style="background-color: gray; border-radius: 10px; padding: 2px;"/>
   </a>
 </p>
 
