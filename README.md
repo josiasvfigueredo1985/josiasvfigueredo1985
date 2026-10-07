@@ -51,10 +51,9 @@
 </p>
 
 #### 🌐 Web Testing
-
 <p align="left">
   <a href="#">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/playwright/2EAD33?viewbox=auto" alt="Playwright"/>
+    <img width="48" height="48" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/testes-e2e-com-cypress-tat">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=cypress&theme=light" alt="Cypress"/>
@@ -82,27 +81,27 @@
 </p>
 
 #### 🔌 API Testing
-
 <p align="left">
   <a href="https://github.com/josiasvfigueredo1985/API_Testings_Postman">
     <img width="48" height="48" src="https://skillicons.dev/icons?i=postman&theme=light" alt="Postman"/>
   </a>
-  <a href="https://github.com/josiasvfigueredo1985/restsharp-testing-nunit">
-    <img width="48" height="48" src="https://img.shields.io/badge/RestSharp-3A3A3A?style=flat-square&logoColor=white" alt="RestSharp"/>
-  </a>
-  <a href="https://github.com/josiasvfigueredo1985/ArquiteturaBase2RestAssured">
-    <img width="48" height="48" src="https://img.shields.io/badge/REST%20Assured-3A3A3A?style=flat-square&logoColor=white" alt="REST Assured"/>
+  <a href="#">
+<img width="48" height="48" src="https://restsharp.dev/img/restsharp.png" alt="RestSharp"/>
   </a>
   <a href="#">
-    <img width="48" height="48" src="https://img.shields.io/badge/Karate-25A162?style=flat-square&logoColor=white" alt="Karate DSL"/>
+<img width="48" height="48" src="https://rest-assured.io/img/logo-transparent.png" alt="REST Assured"/>  
   </a>
+  <a href="#">
+<img width="48" height="48" src="https://karatelabs.io/images/karate-labs-docs-logo.svg" alt="Karate DSL"/>
+  </a >
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img width="48" height="48" src="https://cdn.simpleicons.org/robotframework/000000?viewbox=auto" alt="Robot Framework"/>
+    <img width="48" height="48" src="https://cdn.simpleicons.org/robotframework/000000?viewbox=auto" alt="Robot Framework"
+ />
   </a>
   <a href="#">
     <img width="48" height="48" src="https://cdn.simpleicons.org/swagger/85EA2D?viewbox=auto" alt="Swagger"/>
   </a>
-</p>
+</p> 
 
 #### ⚡ Performance Testing
 
