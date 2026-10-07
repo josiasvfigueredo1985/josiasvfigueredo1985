@@ -1,5 +1,10 @@
 # Hi there! 👋 I'm Josias Valentim
 
+<div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f766e 100%); padding: 26px 18px; border-radius: 16px; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.18); margin: 0 auto 20px;">
+  <h3 style="margin: 0; color: #f8fafc; font-size: 30px; font-weight: 700; letter-spacing: 0.5px;">QA Automation Engineer Senior</h3>
+  <p style="margin: 10px 0 0; color: #cbd5e1; font-size: 17px; font-weight: 500;">Quality through automation, strategy, and engineering excellence</p>
+</div>
+
 <div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
   
 ![Funny Cat](https://github.com/josiasvfigueredo1985/src/blob/main/work%20heres%20GIF.gif)
@@ -117,7 +122,7 @@
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original-wordmark.svg" alt="Karate DSL" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
   <a href="https://github.com/josiasvfigueredo1985/robot_framework_practice">
-    <img height="60px" src="https://github.com/josiasvfigueredo1985/src/blob/main/robot.ico" alt="Robot Framework" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
+    <img height="60px" src="https://robotframework.org/img/RF-white.svg" alt="Robot Framework" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
   </a>
   <a href="#">
     <img height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" style="background-color: #f0f0f0; border-radius: 10px; padding: 8px; display: inline-block; margin: 5px;"/>
