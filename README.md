@@ -237,6 +237,8 @@
 
 | Project                                                                                               | Description                   | Tech Stack              |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------- |
+| [Agentic Playwright Demo](https://github.com/josiasvfigueredo1985/agentic-playwright-demo) | Spec-driven agentic tests with generated scenarios and page/component objects | Playwright, TypeScript, Gherkin |
+| [Playwright Sauce Labs Demo](https://github.com/josiasvfigueredo1985/playwright-sauce-labs-demo) | Human-readable end-to-end tests for SauceDemo using a TypeScript DSL | Playwright, TypeScript |
 | [Cypress E2E Tests](https://github.com/josiasvfigueredo1985/testes-e2e-com-cypress-tat)               | End-to-end testing automation | Cypress, JavaScript     |
 | [REST Assured Architecture](https://github.com/josiasvfigueredo1985/ArquiteturaBase2RestAssured)      | API testing framework         | Java, REST Assured      |
 | [RestSharp Testing](https://github.com/josiasvfigueredo1985/restsharp-testing-nunit)                  | API automation with C#        | C#, RestSharp, NUnit    |
